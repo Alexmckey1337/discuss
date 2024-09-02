@@ -1,12 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import {
-  Navbar,
-  NavbarBrand,
   NavbarItem,
-  NavbarContent,
-  Input,
   Button,
   Avatar,
   Popover,
